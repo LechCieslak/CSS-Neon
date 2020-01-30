@@ -1,0 +1,133 @@
+body {
+    background-color: black;
+}
+
+.cA {
+    border: solid #FFE500 6px;
+    border-bottom: solid black 6px;
+    border-radius: 50%;
+    animation: yellow 2s infinite;
+}
+
+.cB {
+    border: solid #ff6600 6px;
+    border-bottom: solid black 6px;
+    border-radius: 50%;
+    animation: orange 2s infinite;
+}
+
+.cC {
+    border: solid #c00000 6px;
+    border-bottom: solid black 6px;
+    border-radius: 50%;
+    animation: red 2s infinite;
+}
+
+@keyframes yellow {
+    100% {
+        border-top-color: #c00000;
+        border-right-color: #c00000;
+        border-left-color: #c00000;
+    }
+}
+
+@keyframes orange {
+    100% {
+        border-top-color: #FFE500;
+        border-right-color: #FFE500;
+        border-left-color: #FFE500;
+    }
+}
+
+@keyframes red {
+    100% {
+        border-top-color: #ff6600;
+        border-right-color: #ff6600;
+        border-left-color: #ff6600;
+    }
+}
+
+
+.c1 {
+    width: 200px;
+    height: 200px;
+}
+
+.c2 {
+    width: 188px;
+    height: 188px;
+}
+
+.c3 {
+    width: 176px;
+    height: 176px;
+}
+
+.c4 {
+    width: 164px;
+    height: 164px;
+}
+
+.c5 {
+    width: 152px;
+    height: 152px;
+}
+
+.c6 {
+    width: 140px;
+    height: 140px;
+}
+
+.c7 {
+    width: 128px;
+    height: 128px;
+}
+
+.c8 {
+    width: 116px;
+    height: 116px;
+}
+
+.c9 {
+    width: 104px;
+    height: 104px;
+}
+
+.c10 {
+    width: 92px;
+    height: 92px;
+}
+
+.c11 {
+    width: 80px;
+    height: 80px;
+}
+
+.c12 {
+    width: 68px;
+    height: 68px;
+}
+
+.c13 {
+    width: 56px;
+    height: 56px;
+}
+.c14 {
+    width: 44px;
+    height: 44px;
+}
+
+.c15 {
+    width: 32px;
+    height: 32px;
+}
+
+.c16 {
+    width: 20px;
+    height: 20px;
+}
+
+.c17 {
+    width: 8px;
+    height: 8px;
+}
